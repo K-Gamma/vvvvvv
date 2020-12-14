@@ -16,5 +16,5 @@
 ## 依存関係
 - ncurses
   ```
-  $ sudo apt delete libncurses-dev
+  $ sudo apt install libncurses-dev
   ```
