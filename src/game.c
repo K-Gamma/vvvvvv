@@ -249,7 +249,7 @@ int Game()
     int nowstage;                // 現在のステージ
     int error;                   // error 処理用
     int sfilexist = 0;           //セーブファイルが存在するかどうか
-    char *comment = "where is this ... ?";
+    char *comment = "Where am I ... ?";
     int facenum = 0;        //プレイヤー配列の要素番号
     double accel = GLAVITY; // 画面全体の加速度
     double kvector = 0;     // ベクトルの保持
